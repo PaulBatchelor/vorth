@@ -1,4 +1,6 @@
 # Vorth
 Pathogen-compatible Sporth plugin for Vim
 
-Clone into pathogen's bundle folder to install. 
+## Install
+
+    git clone git://www.github.com/paulbatchelor/vorth.git ~/.vim/bundle
